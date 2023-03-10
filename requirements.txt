@@ -1,2 +1,2 @@
 #requirements
-snowflake-connector-python
+snowflake-connector-python[pandas]
